@@ -28,7 +28,8 @@ Climate analysis needs to be done on Honolulu before we take a trip by analysing
            
 ## Climate App 
 <br>
-#### /(Home page).
+
+#### /Home .
 
 List all routes that are available.
 
