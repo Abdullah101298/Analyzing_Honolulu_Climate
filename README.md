@@ -1,12 +1,16 @@
 # Temperature Analysis of Honolulu, HI 
+<br> 
+
 
 ### Programs used - SQLalchemy & Flask 
 
 ## Background 
+<br>
 
 Climate analysis needs to be done on Honolulu before we take a trip by analysing precipitation and temperature data from 2010 to 2017 
 
 ## Precipitation Analysis 
+<br>
 
     (1) Design a query to retrieve the last 12 months of precipitation data.
     (2) Select only the date and prcp values.
@@ -15,6 +19,7 @@ Climate analysis needs to be done on Honolulu before we take a trip by analysing
     (5) Plot the results using the DataFrame plot method.
     
 ## Station Analysis 
+<br>
 
     (1) Design a query to calculate the total number of stations.
     (2) Design a query to find the most active stations.
@@ -25,6 +30,7 @@ Climate analysis needs to be done on Honolulu before we take a trip by analysing
            .Plot the results as a histogram with bins=12.
            
 ## Climate App 
+<br>
 
 #### / (Home page).
 
