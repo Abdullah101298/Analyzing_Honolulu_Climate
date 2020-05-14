@@ -6,12 +6,10 @@
 
 ## Background 
 <br>
-
 Climate analysis needs to be done on Honolulu before we take a trip by analysing precipitation and temperature data from 2010 to 2017 
 
 ## Precipitation Analysis 
 <br>
-
     (1) Design a query to retrieve the last 12 months of precipitation data.
     (2) Select only the date and prcp values.
     (3) Load the query results into a Pandas DataFrame and set the index to the date column.
@@ -20,7 +18,6 @@ Climate analysis needs to be done on Honolulu before we take a trip by analysing
     
 ## Station Analysis 
 <br>
-
     (1) Design a query to calculate the total number of stations.
     (2) Design a query to find the most active stations.
            .List the stations and observation counts in descending order.
@@ -31,7 +28,6 @@ Climate analysis needs to be done on Honolulu before we take a trip by analysing
            
 ## Climate App 
 <br>
-
 #### / (Home page).
 
 List all routes that are available.
