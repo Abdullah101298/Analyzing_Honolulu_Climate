@@ -1,7 +1,7 @@
 # Temperature Analysis of Honolulu, HI 
 <br> 
 
-<img src = "https://media.shermanstravel.com/honolulu.jpg" width = 1000 height = 500>
+<img src = "https://www.hawaiimagazine.com/sites/default/files/field/image/GettyImages-937463818.jpg" width = 1000 height = 500>
 
 ### Programs used - SQLalchemy & Flask 
 
